@@ -1,0 +1,3 @@
+[submodule "SCEllSharp"]
+	path = SCEllSharp
+	url = https://github.com/InvoxiPlayGames/SCEllSharp
